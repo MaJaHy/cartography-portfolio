@@ -95,6 +95,24 @@
       margin: 1rem 0;
     }
 
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+      font-size: 0.95rem;
+    }
+
+    th, td {
+      border: 1px solid #ddd;
+      padding: 0.6rem;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f1f5f9;
+    }
+
     footer {
       text-align: center;
       padding: 2rem;
@@ -176,9 +194,42 @@
     The second part compares the main mammal groups in the dataset. This shows whether the data is dominated by primates, carnivores, hoofed mammals, elephants, or pangolins.
   </p>
 
-  <div class="figure-placeholder">
-    Figure 2 will go here: mammal group comparison.
-  </div>
+  <figure>
+    <img src="figures/figure_2_top_species.png"
+         alt="Most recorded species in the focus dataset"
+         style="width:100%; max-width:900px;">
+    <figcaption>
+      Figure 2. The most recorded species in the focus dataset. Common English names are used in the chart to make the figure easier to read.
+    </figcaption>
+  </figure>
+
+  <p>
+    This chart shows that the dataset is dominated by a small number of species. Some primates and hoofed mammals have many records, while many rare carnivores and pangolins have fewer records. Because of this, the final maps should focus on species with enough data, not only on the most famous animals.
+  </p>
+
+  <h4>Scientific names of the species shown in Figure 2</h4>
+
+  <table>
+    <tr>
+      <th>Common name</th>
+      <th>Scientific name</th>
+    </tr>
+    <tr><td>Black-shanked douc</td><td><em>Pygathrix nigripes</em></td></tr>
+    <tr><td>Wild boar</td><td><em>Sus scrofa</em></td></tr>
+    <tr><td>Red muntjac</td><td><em>Muntiacus muntjak</em></td></tr>
+    <tr><td>Long-tailed macaque</td><td><em>Macaca fascicularis</em></td></tr>
+    <tr><td>Northern pig-tailed macaque</td><td><em>Macaca leonina</em></td></tr>
+    <tr><td>Common palm civet</td><td><em>Paradoxurus hermaphroditus</em></td></tr>
+    <tr><td>Large-spotted civet</td><td><em>Viverra megaspila</em></td></tr>
+    <tr><td>Sambar deer</td><td><em>Rusa unicolor</em></td></tr>
+    <tr><td>White-handed gibbon</td><td><em>Hylobates lar</em></td></tr>
+    <tr><td>Golden jackal</td><td><em>Canis aureus</em></td></tr>
+    <tr><td>Lesser mouse-deer</td><td><em>Tragulus kanchil</em></td></tr>
+    <tr><td>Dusky leaf monkey</td><td><em>Trachypithecus obscurus</em></td></tr>
+    <tr><td>Domestic cat</td><td><em>Felis catus</em></td></tr>
+    <tr><td>Grey wolf / domestic dog</td><td><em>Canis lupus</em></td></tr>
+    <tr><td>Asian elephant</td><td><em>Elephas maximus</em></td></tr>
+  </table>
 
   <h3>3. How do selected species differ spatially?</h3>
   <p>
