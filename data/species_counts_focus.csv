@@ -1,0 +1,110 @@
+order,family,genus,species,records
+Primates,Cercopithecidae,Pygathrix,Pygathrix nigripes,3045
+Artiodactyla,Suidae,Sus,Sus scrofa,2978
+Artiodactyla,Cervidae,Muntiacus,Muntiacus muntjak,2955
+Primates,Cercopithecidae,Macaca,Macaca fascicularis,2767
+Primates,Cercopithecidae,Macaca,Macaca leonina,2539
+Carnivora,Viverridae,Paradoxurus,Paradoxurus hermaphroditus,2134
+Carnivora,Viverridae,Viverra,Viverra megaspila,1751
+Artiodactyla,Cervidae,Rusa,Rusa unicolor,1476
+Primates,Hylobatidae,Hylobates,Hylobates lar,1119
+Carnivora,Canidae,Canis,Canis aureus,1069
+Artiodactyla,Tragulidae,Tragulus,Tragulus kanchil,1028
+Primates,Cercopithecidae,Trachypithecus,Trachypithecus obscurus,1014
+Carnivora,Felidae,Felis,Felis catus,918
+Carnivora,Canidae,Canis,Canis lupus,821
+Proboscidea,Elephantidae,Elephas,Elephas maximus,818
+Primates,Cercopithecidae,Macaca,Macaca mulatta,590
+Primates,Cercopithecidae,Pygathrix,Pygathrix nemaeus,526
+Carnivora,Viverridae,Viverricula,Viverricula indica,506
+Artiodactyla,Bovidae,Capricornis,Capricornis sumatraensis,413
+Carnivora,Mustelidae,Melogale,,412
+Artiodactyla,Bovidae,Bos,Bos javanicus,400
+Carnivora,Felidae,Prionailurus,Prionailurus bengalensis,398
+Carnivora,Viverridae,Viverra,Viverra zibetha,390
+Carnivora,Herpestidae,Herpestes,Herpestes urva,374
+Primates,Cercopithecidae,Macaca,Macaca arctoides,331
+Carnivora,Ursidae,Helarctos,Helarctos malayanus,290
+Primates,Cercopithecidae,Trachypithecus,Trachypithecus germaini,271
+Artiodactyla,Bovidae,Bos,Bos frontalis,259
+Primates,Hylobatidae,Nomascus,Nomascus gabriellae,246
+Carnivora,Mustelidae,Martes,Martes flavigula,238
+Artiodactyla,Bovidae,Bubalus,Bubalus bubalis,214
+Primates,Cercopithecidae,Trachypithecus,Trachypithecus delacouri,177
+Carnivora,Mustelidae,Lutrogale,Lutrogale perspicillata,149
+Artiodactyla,Cervidae,Axis,Axis porcinus,144
+Primates,Cercopithecidae,Presbytis,Presbytis robinsoni,137
+Primates,Cercopithecidae,Macaca,Macaca assamensis,109
+Artiodactyla,Tragulidae,Tragulus,Tragulus javanicus,107
+Primates,Hylobatidae,Hylobates,Hylobates pileatus,93
+Carnivora,Herpestidae,Herpestes,Herpestes javanicus,85
+Artiodactyla,Cervidae,Rucervus,Rucervus eldii,84
+Primates,Lorisidae,Nycticebus,Nycticebus bengalensis,83
+Carnivora,Felidae,Panthera,Panthera pardus,72
+Artiodactyla,Bovidae,Capra,Capra hircus,65
+Carnivora,Ursidae,Ursus,Ursus thibetanus,64
+Primates,Cercopithecidae,Trachypithecus,Trachypithecus hatinhensis,63
+Primates,Cercopithecidae,Trachypithecus,Trachypithecus crepusculus,55
+Primates,Cercopithecidae,Trachypithecus,Trachypithecus poliocephalus,46
+Carnivora,Canidae,Cuon,Cuon alpinus,46
+Carnivora,Viverridae,Arctogalidia,Arctogalidia trivirgata,44
+Carnivora,Felidae,Panthera,Panthera tigris,40
+Carnivora,Felidae,Felis,Felis chaus,39
+Carnivora,Viverridae,Paguma,Paguma larvata,39
+Primates,Cercopithecidae,Pygathrix,Pygathrix cinerea,37
+Artiodactyla,Bovidae,Bos,Bos taurus,34
+Carnivora,Felidae,Neofelis,Neofelis nebulosa,29
+Primates,Cercopithecidae,Trachypithecus,Trachypithecus laotum,28
+Primates,Cercopithecidae,Macaca,Macaca nemestrina,28
+Primates,Lorisidae,Xanthonycticebus,,28
+Carnivora,Mustelidae,Arctonyx,Arctonyx collaris,26
+Pholidota,Manidae,Manis,Manis javanica,24
+Carnivora,Viverridae,Prionodon,Prionodon pardicolor,18
+Carnivora,Viverridae,Arctictis,Arctictis binturong,15
+Artiodactyla,Cervidae,Muntiacus,Muntiacus feae,13
+Artiodactyla,Bovidae,Naemorhedus,,13
+Carnivora,,,,13
+Primates,Hylobatidae,Nomascus,Nomascus annamensis,13
+Carnivora,Mustelidae,Melogale,Melogale moschata,12
+Artiodactyla,Cervidae,Muntiacus,Muntiacus truongsonensis,10
+Carnivora,Mustelidae,Melogale,Melogale personata,9
+Carnivora,Mustelidae,,,8
+Primates,Cercopithecidae,Macaca,,7
+Primates,Cercopithecidae,Presbytis,Presbytis femoralis,7
+Primates,Cercopithecidae,Trachypithecus,Trachypithecus popa,5
+Carnivora,Mustelidae,Lutra,Lutra sumatrana,5
+Primates,Lorisidae,Nycticebus,Nycticebus coucang,5
+Carnivora,Felidae,Pardofelis,Pardofelis marmorata,5
+Carnivora,Felidae,Catopuma,Catopuma temminckii,5
+Carnivora,Phocidae,Phoca,Phoca largha,5
+Carnivora,Viverridae,Prionodon,Prionodon linsang,4
+Primates,Cercopithecidae,Trachypithecus,Trachypithecus phayrei,4
+Primates,Hylobatidae,Hoolock,Hoolock tianxing,4
+Primates,Hylobatidae,Nomascus,Nomascus concolor,4
+Primates,Hylobatidae,Nomascus,Nomascus leucogenys,4
+Carnivora,Mustelidae,Mustela,Mustela strigidorsa,4
+Carnivora,Mustelidae,Mustela,Mustela kathiah,3
+Artiodactyla,Cervidae,Cervus,Cervus nippon,3
+Artiodactyla,Bovidae,Capricornis,Capricornis milneedwardsii,3
+Primates,,,,3
+Carnivora,Viverridae,,,3
+Primates,Hylobatidae,Nomascus,Nomascus siki,3
+Artiodactyla,Cervidae,Axis,Axis axis,2
+Artiodactyla,,,,2
+Carnivora,Felidae,Prionailurus,Prionailurus viverrinus,2
+Primates,Cercopithecidae,Trachypithecus,Trachypithecus melamerus,2
+Primates,Cercopithecidae,Trachypithecus,,2
+Carnivora,Mustelidae,Mustela,,2
+Primates,Hylobatidae,Hoolock,Hoolock hoolock,2
+Primates,Cercopithecidae,Rhinopithecus,Rhinopithecus avunculus,2
+Artiodactyla,Bovidae,Naemorhedus,Naemorhedus goral,1
+Artiodactyla,Cervidae,Muntiacus,,1
+Artiodactyla,Bovidae,Pseudoryx,Pseudoryx nghetinhensis,1
+Carnivora,Mustelidae,Lutra,,1
+Artiodactyla,Cervidae,Muntiacus,Muntiacus putaoensis,1
+Pholidota,Manidae,Manis,Manis pentadactyla,1
+Carnivora,Ursidae,,,1
+Primates,Cercopithecidae,Trachypithecus,Trachypithecus francoisi,1
+Primates,Hylobatidae,Hoolock,Hoolock leuconedys,1
+Primates,Hylobatidae,,,1
+Primates,Hylobatidae,Nomascus,Nomascus nasutus,1
