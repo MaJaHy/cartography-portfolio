@@ -144,12 +144,20 @@
   <h2>Cartographic Reflection</h2>
 
   <p>
-    This section will reflect on my map from Exercise 1 and discuss how my understanding of cartographic design developed during the course.
+    My exercise 1 map shows the building footprint share of land area by small district in Helsinki. The main pattern is quite clear. The highest values are mostly in central and southern Helsinki, where the urban structure is denser. Many outer areas have lower values. I think the orange colour scale works quite well, because darker colours clearly show areas with a higher building footprint share.
   </p>
 
   <p>
-    The reflection will focus on layout, colours, text hierarchy, placement of map elements, and how clearly the map communicates its main message.
+    Now later, when I inspect the map, it has some good choices. The colours fit the theme, and the inset map helps the reader understand where Helsinki is located in Finland. I also wanted to create the map with Python instead of QGIS. This was useful for learning, but it also made the design process more challenging. I spent quite a lot of time on the technical workflow, and because of that I had less time for the final visualization.
   </p>
+
+  <p>
+    The layout could be improved in many ways. The map has too much empty space, and the main map could be larger. The title, legend, source text, and other labels could also be more visible. Some map elements, such as the legend, scale bar, north arrow, and inset map, could be placed more carefully so that the whole layout feels tighter and more balanced.
+  </p>
+
+  <div class="figure-placeholder">
+    Exercise 1 map will be added here later.
+  </div>
 </section>
 
 <section id="data">
@@ -160,7 +168,11 @@
   </p>
 
   <p>
-    The original dataset included all Mammalia records, but the analysis focuses on selected mammal groups that are especially relevant for forest environments and conservation. These groups include Carnivora, Primates, Artiodactyla, Proboscidea, and Pholidota.
+    The original dataset included all Mammalia records, but the analysis focuses on selected mammal groups that are especially relevant for forest environments and conservation. These groups include Carnivora (carnivores, such as cats, bears and civets), Primates (monkeys, apes and gibbons), Artiodactyla (hoofed mammals, such as deer, wild cattle and pigs), Proboscidea (elephants), and Pholidota (pangolins).
+  </p>
+
+  <p>
+    These groups interested me because many of them are connected to forests, protected areas and conservation questions. They also include several well-known or threatened mammals, such as elephants, gibbons, bears and pangolins. This made the dataset more interesting than looking at all mammal records together.
   </p>
 
   <p>
@@ -293,11 +305,19 @@
   <h2>Conclusions</h2>
 
   <p>
-    This section will summarize the main findings from the visual exploration. It will discuss where records are concentrated, which mammal groups dominate the dataset, and what the spatial patterns suggest about conservation, forests, and human presence.
+    The visualizations show that GBIF mammal records are not evenly distributed in mainland Southeast Asia. Cambodia and Thailand have many more records than Laos, Myanmar, and Vietnam. This does not directly mean that these countries have more mammals. It can also reflect differences in research activity, monitoring, accessibility, and data availability.
   </p>
 
   <p>
-    The conclusion will also discuss the limitations of GBIF data, especially uneven sampling effort and differences between countries.
+    The species chart shows that the dataset is dominated by a small number of species. Some primates and hoofed mammals have many records, while many rare carnivores and pangolins have fewer records. Because of this, the map focuses on selected species with enough data for visual analysis.
+  </p>
+
+  <p>
+    The temporal chart shows that recent years have many more records than earlier periods. This should not be interpreted as population growth. It more likely shows changes in data collection, monitoring, digitization, and the availability of biodiversity records.
+  </p>
+
+  <p>
+    I originally planned to include an interactive map, but creating the GitHub repository, publishing the website with GitHub Pages, and learning the workflow took more time than expected. Because of this, the portfolio is more limited than planned and focuses on static visualizations. Still, the project helped me understand how maps, charts, and a simple web page can be combined into a geospatial narrative.
   </p>
 </section>
 
